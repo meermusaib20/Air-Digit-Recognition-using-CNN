@@ -80,8 +80,9 @@ python train_cnn_from_drawn_data.py
 
 5️⃣ Run air-draw prediction
 python predict_air_draw.py
+```
 
-📈 Accuracy Notes
+##📈 Accuracy Notes
 
 Accuracy improves significantly with more personal samples
 Misclassification (like 1 vs 8) was reduced using:
